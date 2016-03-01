@@ -194,6 +194,11 @@ p.copyright {
     color: #FF9800;
     background: #000;
 }
+
+/*.navbar-nav > li:hover{
+   border-bottom: 2px solid black;
+}*/
+
 /* Buttons */
 .btn-default{
   background-color: #fff;
